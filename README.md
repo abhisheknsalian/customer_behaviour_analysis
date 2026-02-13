@@ -1,80 +1,52 @@
 🛍️ Customer Shopping Behaviour Analysis
 📌 Project Overview
 
-This project analyzes customer shopping behavior to identify purchasing patterns, spending trends, and actionable business insights.
-
-The objective is to leverage data analytics techniques to uncover patterns that help improve marketing strategies, optimize inventory management, and enhance customer targeting.
+This project analyzes customer shopping behaviour to uncover purchasing patterns, spending trends, and actionable business insights.
+Using data analytics techniques, the project identifies patterns that can support improved marketing strategies, optimized inventory management, and enhanced customer targeting.
 
 🎯 Objectives
-
-Analyze customer purchase patterns
-
+Analyze customer purchasing patterns
 Identify high-value customer segments
-
-Examine product category performance
-
-Understand seasonal or trend-based buying behavior
-
-Generate data-driven insights for business decisions
+Evaluate product category performance
+Detect seasonal and trend-based buying behaviour
+Generate data-driven insights for business decision-making
 
 🛠️ Technologies Used
-
 Python
-
 Pandas
-
 NumPy
-
 Matplotlib & Seaborn
-
 SQL
-
 Power BI
-
 Jupyter Notebook
 
 📊 Key Analysis Performed
-
-Customer segmentation based on spending behavior
-
+Customer segmentation based on spending behaviour
 Revenue distribution analysis
-
 Identification of top-selling product categories
-
 Monthly and seasonal sales trend analysis
-
-Customer purchase frequency analysis
-
+Customer purchase frequency and retention analysis
 SQL-based business query analysis
-
 Interactive Power BI dashboard development
 
 📈 Key Insights
-
-Identified high-value customer segments contributing maximum revenue
-
-Highlighted peak shopping periods
-
-Discovered repeat purchase patterns
-
-Analyzed category-wise performance for strategic decisions
+Identified high-value customer segments contributing the majority of revenue
+Highlighted peak shopping periods across months
+Discovered repeat purchase behaviour patterns
+Analyzed category-wise performance to support strategic planning
 
 🚀 How to Run
-Clone the Repository
+1️⃣ Clone the Repository
 git clone https://github.com/abhisheknsalian/customer_behaviour_analysis.git
 
-
-Install Dependencies
+2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-Run the Notebook
-
-Open the .ipynb file in Jupyter Notebook and run all cells.
+3️⃣ Run the Notebook
+Open the .ipynb file in Jupyter Notebook and execute all cells.
 
 📊 Dashboard
-
-Open the .pbix file in Microsoft Power BI Desktop to explore interactive business insights.
+Open the .pbix file using Microsoft Power BI Desktop to explore interactive business visualizations and insights.
 
 👨‍💻 Author
-
 Abhishek Nagesh Salian
