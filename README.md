@@ -1,21 +1,23 @@
 🛍️ Customer Shopping Behaviour Analysis
+
+
 📌 Project Overview
 
-This project analyzes customer shopping behaviour to uncover purchasing patterns, spending trends, and actionable business insights.
+This project analyzes customer shopping behaviour to identify purchasing patterns, spending trends, and actionable business insights.
 
-Using data analytics techniques, the project identifies patterns that can support improved marketing strategies, optimized inventory management, and enhanced customer targeting.
+The objective is to apply data analytics techniques to uncover patterns that can improve marketing strategies, optimize inventory management, and enhance customer targeting.
 
 🎯 Objectives
 
-Analyze customer purchasing patterns
+Analyze customer purchase patterns
 
 Identify high-value customer segments
 
-Evaluate product category performance
+Examine product category performance
 
-Detect seasonal and trend-based buying behaviour
+Understand seasonal and trend-based buying behaviour
 
-Generate data-driven insights for business decision-making
+Generate data-driven insights for business decisions
 
 🛠️ Technologies Used
 
@@ -25,7 +27,9 @@ Pandas
 
 NumPy
 
-Matplotlib & Seaborn
+Matplotlib
+
+Seaborn
 
 SQL
 
@@ -43,7 +47,7 @@ Identification of top-selling product categories
 
 Monthly and seasonal sales trend analysis
 
-Customer purchase frequency and retention analysis
+Customer purchase frequency analysis
 
 SQL-based business query analysis
 
@@ -53,11 +57,11 @@ Interactive Power BI dashboard development
 
 Identified high-value customer segments contributing the majority of revenue
 
-Highlighted peak shopping periods across months
+Highlighted peak shopping periods
 
 Discovered repeat purchase behaviour patterns
 
-Analyzed category-wise performance to support strategic planning
+Analyzed category-wise performance to support strategic decisions
 
 🚀 How to Run
 1️⃣ Clone the Repository
@@ -68,11 +72,11 @@ pip install -r requirements.txt
 
 3️⃣ Run the Notebook
 
-Open the .ipynb file in Jupyter Notebook and execute all cells.
+Open the .ipynb file in Jupyter Notebook and run all cells.
 
 📊 Dashboard
 
-Open the .pbix file using Microsoft Power BI Desktop to explore interactive business visualizations and insights.
+Open the .pbix file using Microsoft Power BI Desktop to explore interactive business insights and visualizations.
 
 👨‍💻 Author
 
