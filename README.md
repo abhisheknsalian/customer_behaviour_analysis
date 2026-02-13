@@ -61,7 +61,8 @@ Analyzed category-wise performance for strategic decisions
 
 🚀 How to Run
 Clone the Repository
-git clone https://github.com/your-username/Customer-Shopping-Behaviour-Analysis.git
+git clone https://github.com/abhisheknsalian/customer_behaviour_analysis.git
+
 
 Install Dependencies
 pip install -r requirements.txt
